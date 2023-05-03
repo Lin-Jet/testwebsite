@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Lin-Jet/testwebsite.git/static/css/main.08f2d41b.css",
+    "main.js": "/Lin-Jet/testwebsite.git/static/js/main.c733dd3f.js",
+    "static/js/787.08414bb6.chunk.js": "/Lin-Jet/testwebsite.git/static/js/787.08414bb6.chunk.js",
+    "index.html": "/Lin-Jet/testwebsite.git/index.html",
+    "main.08f2d41b.css.map": "/Lin-Jet/testwebsite.git/static/css/main.08f2d41b.css.map",
+    "main.c733dd3f.js.map": "/Lin-Jet/testwebsite.git/static/js/main.c733dd3f.js.map",
+    "787.08414bb6.chunk.js.map": "/Lin-Jet/testwebsite.git/static/js/787.08414bb6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08f2d41b.css",
+    "static/js/main.c733dd3f.js"
+  ]
+}
